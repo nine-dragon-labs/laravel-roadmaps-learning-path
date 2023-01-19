@@ -1,15 +1,15 @@
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/intro-laravel-relation">:clapper:Intro laravel relation</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/relation-one-to-one">:clapper:Relation one to one</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/relation-one-to-many">:clapper:Relation one to many</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/relation-many-to-many">:clapper:Relation many to many</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/pivot-many-to-many">:clapper:Pivot many to many</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/polymorphic">:clapper:Polymorphic</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/polymorphic-many-to-many">:clapper:Polymorphic many to many</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/eager-loading">:clapper:Eager loading</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/query-pada-relationship">:clapper:Query pada relationship</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/has-many-through">:clapper:Has many through</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/insert-relation-method">:clapper:Insert relation method</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/associate-dan-dissociate">:clapper:Associate dan dissociate</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/attach-dan-detach">:clapper:Attach dan detach</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/update-existing-pivot-dan-sync">:clapper:Update existing pivot dan sync</a>
-<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/mengubah-waktu-parent">:clapper:Changing parental time</a>
+<a href="https://www.youtube.com/watch?v=Q3yPNimibGA">:clapper:Routing Advanced</a>
+<a href="https://www.youtube.com/watch?v=6dEfxGLgevM">:clapper:Route Model Binding</a>
+<a href="https://laravel.com/docs/9.x/routing#redirect-routes">:book:Route Redirect</a>
+<a href="https://www.malasngoding.com/soft-deletes-laravel/">:page_facing_up:Soft Deletes</a>
+<a href="https://www.youtube.com/watch?v=kZOgH3-0Bko">:clapper:Authorization: Roles/Permissions, Gates, Policies</a>
+<a href="https://www.youtube.com/watch?v=NgToi0uiMNQ">:clapper:Authorization: Extra Packages - Spatie Permission, Bouncer, etc</a>
+<a href="https://www.malasngoding.com/verifikasi-email-user-laravel/">:page_facing_up:Authentication: Email Verification</a>
+<a href="https://www.youtube.com/watch?v=oqW6vlJgXYE">:clapper:Extra Packages: Spatie Medialibrary, Intervention Image, etc</a>
+<a href="https://www.youtube.com/watch?v=S6ZUuV-wZtY&list=PLRKMmwY3-5MwqwBGSe4g9qzD7UsOOvbvC">:clapper:REST API  Laravel</a>
+<a href="https://www.youtube.com/watch?v=lIOEyTsrK5k">:clapper:Laravel Logging</a>
+<a href="https://www.youtube.com/watch?v=HWMN1m_ai2o&list=PL6tf8fRbavl0o3M6DsaGMIq0x6Tdaeimw&index=4">:clapper:Laravel Testing</a>
+<a href="https://www.tutsmake.com/laravel-8-ajax-crud-using-datatable-tutorial/">:page_facing_up:Crud Datatable</a>
+<a href="https://www.malasngoding.com/membuat-laporan-pdf-dengan-dompdf-laravel/">:page_facing_up:Laravel PDF</a>
+<a href="https://www.malasngoding.com/export-excel-laravel/">:page_facing_up:Export Excel Laravel</a>
+<a href="https://www.malasngoding.com/import-excel-laravel/">:page_facing_up:Import Excel Laravel</a>
