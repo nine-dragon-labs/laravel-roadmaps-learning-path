@@ -1,23 +1,15 @@
-<a href="https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2">:clapper:Intro</a>|
-<a href="https://www.youtube.com/watch?v=pZqk57Xvujs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=2">:clapper:Instalasi & Konfigurasi</a>|
-<a href="https://www.youtube.com/watch?v=u7zS2XpMpsc&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=3">:clapper:Struktur Folder, Routes & View</a>|
-<a href="https://www.youtube.com/watch?v=9jrD0wcfq1g&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=4">:clapper:Blade Templating Engine</a>|
-<a href="https://www.youtube.com/watch?v=ptWgufbjURA&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=5">:clapper:Model, Collection & Controller</a>|
-<a href="https://www.youtube.com/watch?v=ePBWUZRQdrI&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=6">:clapper:Database, Migration & Eloquent</a>|
-<a href="https://www.youtube.com/watch?v=o1em86nhU28&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=7">:clapper:Post Model</a>|
-<a href="https://www.youtube.com/watch?v=HR_Piu6qtoI&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=8">:clapper:Post Category & Eloquent Relationship</a>|
-<a href="https://www.youtube.com/watch?v=aC6MJgsxgrk&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=9">:clapper:Database Seeder</a>|
-<a href="https://www.youtube.com/watch?v=xXc6Ti7qwi0&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=10">:clapper:Factory & Faker</a>|
-<a href="https://www.youtube.com/watch?v=q8FmWY5y0qI&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=11">:clapper:N+1 Problem</a>|
-<a href="https://www.youtube.com/watch?v=1WDHJorZK9M&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=12">:clapper:Redesign UI</a>|
-<a href="https://www.youtube.com/watch?v=YzGH6odpwpc&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=13">:clapper:Searching & Pagination</a>|
-<a href="https://www.youtube.com/watch?v=Wf7RliwJxj4&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=14">:clapper:View Login & Registration</a>|
-<a href="https://www.youtube.com/watch?v=6sIk2sYacTw&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=15">:clapper:User Registration</a>|
-<a href="https://www.youtube.com/watch?v=6oHk5d_KpkU&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=16">:clapper:User Login & Middleware</a>|
-<a href="https://www.youtube.com/watch?v=Glrg5G9OoS8&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=17">:clapper:Dashboard UI</a>|
-<a href="https://www.youtube.com/watch?v=rs48iVajzWc&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=18">:clapper:Create Post Form</a>|
-<a href="https://www.youtube.com/watch?v=WLejN_riW_8&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=19">:clapper:Validation & Insert Post</a>|
-<a href="https://www.youtube.com/watch?v=QW1EpaUnCJ0&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=20">:clapper:Update & Delete Post</a>|
-<a href="https://www.youtube.com/watch?v=CnqsB0ERlcI&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=21">:clapper:Upload Image</a>|
-<a href="https://www.youtube.com/watch?v=4fDp3vsGSWg&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=22">:clapper:Preview, Update & Delete Image</a>|
-<a href="https://www.youtube.com/watch?v=OkIa6e3SP2U&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2&index=23">:clapper:Authorization</a>|
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/intro-laravel-relation">:clapper:Intro laravel relation</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/relation-one-to-one">:clapper:Relation one to one</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/relation-one-to-many">:clapper:Relation one to many</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/relation-many-to-many">:clapper:Relation many to many</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/pivot-many-to-many">:clapper:Pivot many to many</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/polymorphic">:clapper:Polymorphic</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/polymorphic-many-to-many">:clapper:Polymorphic many to many</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/eager-loading">:clapper:Eager loading</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/query-pada-relationship">:clapper:Query pada relationship</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/has-many-through">:clapper:Has many through</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/insert-relation-method">:clapper:Insert relation method</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/associate-dan-dissociate">:clapper:Associate dan dissociate</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/attach-dan-detach">:clapper:Attach dan detach</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/update-existing-pivot-dan-sync">:clapper:Update existing pivot dan sync</a>
+<a href="https://sekolahkoding.com/kelas/belajar-laravel-relation/video/mengubah-waktu-parent">:clapper:Changing parental time</a>
